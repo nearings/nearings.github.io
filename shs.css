@@ -700,8 +700,12 @@ input[type="email"] {
 
 @media screen and (max-width: 479px) {
 
-
-
+  body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  
   .left-body {
     margin-left: 1rem;
     margin-top: 1rem;
@@ -740,6 +744,8 @@ input[type="email"] {
 
   .letter {
     min-width: 28rem;
+    width: 100vw;
+    box-sizing: border-box;
     margin-left: 0;
     padding: 0.8rem;
   }
