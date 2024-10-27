@@ -605,8 +605,6 @@ body {
   background: none;
   color: #242215;
   font-family: geneva, sans-serif;
-  font-size: 11px;
-  line-height: 15px;
   letter-spacing: 1px;
   text-align: left;
   text-decoration: none;
@@ -703,7 +701,7 @@ input[type="email"] {
     margin: 0;
     padding: 0;
     font-size: 0.5rem;
-    line-height: 0.6rem;
+    line-height: 0.55rem;
     letter-spacing: 0.05rem;
   }
 
