@@ -718,7 +718,7 @@ input[type="email"] {
   }
 
   .card {
-    min-width: 25rem;
+    min-width: 26rem;
     margin-left: 0;
     padding: 0.8rem;
   }
@@ -743,7 +743,7 @@ input[type="email"] {
   }
 
   .letter {
-    min-width: 21rem;
+    min-width: 26rem;
     margin-left: 0;
     padding: 0.8rem;
   }
