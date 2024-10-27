@@ -393,9 +393,8 @@ button,
 
 label {
   margin-bottom: 5px;
-  font-weight: normal;
+  font-weight: normal !important;
   display: block;
-
 }
 
 .form-label {
@@ -706,15 +705,15 @@ input[type="email"] {
   }
 
   .left-body {
-    margin-left: 0.625rem;
-    margin-right: 0.625rem;
-    margin-top: 0.625rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
     margin-bottom: 2rem;
   }
 
   .side-body {
-    margin-left: 0.625rem;
-    margin-right: 0.625rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
   }
 
   .card {
