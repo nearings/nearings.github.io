@@ -474,7 +474,7 @@ body {
   background-color: #5e583708;
   flex-flow: column;
   min-width: 25rem;
-  height: 10rem;
+  height: 200px;
   margin-top: 10px;
   margin-bottom: 10px;
   padding: 0 20px 10px;
@@ -508,7 +508,7 @@ body {
 }
 
 .exh-key {
-  margin-bottom: 10px;
+  margin-bottom: 0;
 }
 
 .exhibitionheading {
@@ -700,8 +700,8 @@ input[type="email"] {
     overflow-x: hidden;
     margin: 0;
     padding: 0;
-    font-size: 0.55rem;
-    line-height: 0.75rem;
+    font-size: 0.5rem;
+    line-height: 0.7rem;
     letter-spacing: 0.05rem;
   }
 
